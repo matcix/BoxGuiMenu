@@ -1,0 +1,9 @@
+name: BoxGuiMenu
+version: '1.0-SNAPSHOT'
+main: net.matcix.boxGuiMenu.Main
+api-version: '1.21'
+authors: [ Matcix ]
+website: https://www.matcix.net
+commands:
+  menu:
+    description: 打开菜单
